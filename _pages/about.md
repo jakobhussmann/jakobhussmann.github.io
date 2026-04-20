@@ -8,10 +8,18 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>jakob.hussmann@kit.edu</p>
-    <p>Waldhornstraße 27</p>
-    <p>76131 Karlsruhe</p>
+  # more_info: >
+  #   <p>jakob.hussmann@kit.edu</p>
+  #   <p>Waldhornstraße 27</p>
+  #   <p>76131 Karlsruhe</p>
+  #   <p> </p>
+  more_info: |
+    <p style="margin-bottom: 1.2rem;">
+      <a href="mailto:jakob.hussmann@kit.edu">jakob.hussmann@kit.edu</a><br>
+      Waldhornstraße 27<br>
+      76131 Karlsruhe
+    </p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
