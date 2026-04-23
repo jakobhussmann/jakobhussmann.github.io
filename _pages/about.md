@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Economics, Karlsruhe Institute of Technology
+subtitle: PhD Student in Economics
 
 profile:
   align: left
@@ -16,8 +16,6 @@ profile:
   more_info: |
     <p style="margin-bottom: 1.2rem;">
       <a href="mailto:jakob.hussmann@kit.edu">jakob.hussmann@kit.edu</a><br>
-      Waldhornstraße 27<br>
-      76131 Karlsruhe
     </p>
 
 

@@ -10,7 +10,7 @@ nav_order: 2
 ---
 
 #### Public Debt in Calibrated OLG Models: Fiscal Arithmetic versus Welfare Analysis
-*with [Johannes Brumm](https://johannesbrumm.com/)* · accepted at **Journal of Monetary Economics** · [PDF]({{ '/assets/pdf/public_debt_ssrn.pdf' | relative_url }}) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510125)
+*with [Johannes Brumm](https://johannesbrumm.com/)* · conditionally accepted at **Journal of Monetary Economics** · [PDF]({{ '/assets/pdf/public_debt_ssrn.pdf' | relative_url }}) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510125)
 
 **Abstract.** We analyze the fiscal and welfare implications of the size of public debt in stochastic OLG models with distortionary taxation. The government borrowing rate is realistically sensitive to debt issuance and lower than the growth rate. The risky rate is much higher due to convenience benefits of public debt, idiosyncratic return risk, and aggregate risk.
 Although free-lunch deficits can reduce tax distortions, welfare-maximizing debt (WMD) is considerably lower than deficit-maximizing debt (DMD) in our baseline model calibrated to the US economy.
@@ -31,9 +31,9 @@ When wealth inequality is included in the model, the rich favor much higher debt
 ### Pre-PhD Publications
 <br>
 
-##### Travel time model for multi-deep automated storage and retrieval systems with different storage strategies
+##### Travel Time Model for Multi-Deep Automated Storage and Retrieval Systems with Different Storage Strategies
 *with Timo Lehmann* · International Journal of Production Research · [Journal Link](https://www.tandfonline.com/doi/full/10.1080/00207543.2022.2110536)
 
-##### Travel time model for multi-deep automated storage and retrieval system with a homogeneous allocation structure
+##### Travel Time Model for Multi-Deep Automated Storage and Retrieval System with a Homogeneous Allocation Structure
 *with Timo Lehmann* · Logistics Research · [Journal Link](https://www.bvl.de/en/lore/all-volumes--issues/volume-14/issue-1/travel-time-model-for-multi-deep-automated-storage-and-retrieval-system-with-a-homogeneous-allocation-structure)
 
