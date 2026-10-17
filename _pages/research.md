@@ -9,22 +9,17 @@ nav_order: 2
 
 ---
 
-#### Public Debt in Calibrated OLG Models: Fiscal Arithmetic versus Welfare Analysis
-*with [Johannes Brumm](https://johannesbrumm.com/)* · conditionally accepted at **Journal of Monetary Economics** · [PDF]({{ '/assets/pdf/public_debt_ssrn.pdf' | relative_url }}) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510125)
+#### Tensor-Train Approximation for High-Dimensional Economic Models
+*with [Johannes Brumm](https://johannesbrumm.com/)* · **R&R Econometrica** · [PDF]({{ '/assets/pdf/tensor_train_ssrn.pdf' | relative_url }}) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5989855)
 
-**Abstract.** We analyze the fiscal and welfare implications of the size of public debt in stochastic OLG models with distortionary taxation. The government borrowing rate is realistically sensitive to debt issuance and lower than the growth rate. The risky rate is much higher due to convenience benefits of public debt, idiosyncratic return risk, and aggregate risk.
-Although free-lunch deficits can reduce tax distortions, welfare-maximizing debt (WMD) is considerably lower than deficit-maximizing debt (DMD) in our baseline model calibrated to the US economy.
-A detailed decomposition of ex ante welfare reveals the forces shaping WMD, the strongest being the positive risk-sharing effect and the negative crowding-out effect.
-We identify key drivers, such as pension policy or risk premia, and quantify their differential impact on WMD and DMD.
-Extending the model to account for market power substantially reduces WMD. 
-When wealth inequality is included in the model, the rich favor much higher debt than the middle class. 
+**Abstract.** We introduce a scalable and broadly applicable method for computing global solutions of dynamic stochastic models. Tensor train approximation (TTA) identifies latent low-rank structure in high-dimensional functions, thereby capturing complex non-linearities while mitigating the curse of dimensionality --- the number of parameters grows only linearly in dimension. We show that our TTA approach can accommodate irregular ergodic sets, is compatible with the endogenous grid method, enables quasi-analytical expectations, and can solve continuous-time models via least-squares projection, all in high dimensions. We demonstrate TTA’s scalability by solving multi-country models of growing dimension with only moderate increases in compute time and no loss of accuracy. We show TTA’s versatility in heterogeneous-agent models with large aggregate shocks. To approximate the wealth distribution efficiently, we introduce a simulation-based moment-selection procedure. In a model with stochastic wealth taxation, using the first nine selected moments, instead of mean wealth only, reduces approximation errors tenfold.
 
 ---
 
-#### Tensor-Train Approximation for High-Dimensional Economic Models
-*with [Johannes Brumm](https://johannesbrumm.com/)* · **Working Paper** · [PDF]({{ '/assets/pdf/tensor_train_ssrn.pdf' | relative_url }}) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5989855)
+#### Public Debt in Calibrated OLG Models: Fiscal Arithmetic versus Welfare Analysis
+*with [Johannes Brumm](https://johannesbrumm.com/)* · **Journal of Monetary Economics**, Volume 162, September 2026 · [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0304393226000899) · [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510125)
 
-**Abstract.** We introduce a scalable and broadly applicable method for computing global solutions of dynamic stochastic models. Tensor train approximation (TTA) identifies latent low-rank structure in high-dimensional functions, thereby capturing complex non-linearities while mitigating the curse of dimensionality --- the number of parameters grows only linearly in dimension. We show that our TTA approach can accommodate irregular ergodic sets, is compatible with the endogenous grid method, enables quasi-analytical expectations, and can solve continuous-time models via least-squares projection, all in high dimensions. We demonstrate TTA’s scalability by solving multi-country models of growing dimension with only moderate increases in compute time and no loss of accuracy. We show TTA’s versatility in heterogeneous-agent models with large aggregate shocks. To approximate the wealth distribution efficiently, we introduce a simulation-based moment-selection procedure. In a model with stochastic wealth taxation, using the first nine selected moments, instead of mean wealth only, reduces approximation errors tenfold.
+**Abstract.** We analyze the fiscal and welfare implications of the size of public debt in stochastic OLG models with distortionary taxation. The government borrowing rate is realistically sensitive to debt issuance and lower than the growth rate. The risky rate is much higher due to convenience benefits of public debt, idiosyncratic return risk, and aggregate risk. Although free-lunch deficits can reduce tax distortions, welfare-maximizing debt (WMD) is considerably lower than deficit-maximizing debt (DMD) in our baseline model calibrated to the US economy. A detailed decomposition of ex ante welfare reveals the forces shaping WMD, the strongest being the positive risk-sharing effect and the negative crowding-out effect. We identify key drivers, such as pension policy or risk premia, and quantify their differential impact on WMD and DMD. Extending the model to account for market power substantially reduces WMD. When wealth inequality is included in the model, the rich favor much higher debt than the middle class.
 
 ---
 

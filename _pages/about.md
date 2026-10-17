@@ -15,7 +15,7 @@ profile:
   #   <p> </p>
   more_info: |
     <p style="margin-bottom: 1.2rem;">
-      <a href="mailto:jakob.hussmann@kit.edu">jakob.hussmann@kit.edu</a><br>
+      <a href="mailto:hussmann@econ.uni-frankfurt.de">hussmann@econ.uni-frankfurt.de</a><br>
     </p>
 
 
@@ -33,7 +33,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in **Economics** at **Karlsruhe Institute of Technology (KIT)**, where I previously completed a bachelor’s degree in Industrial Engineering and Management. In Spring 2026, I am a visiting graduate student in the Department of Economics at the University of California, **Berkeley**.
+I am a PhD student in **Economics** at **Goethe University Frankfurt**. My research lies at the intersection of **macroeconomics**, **public finance**, and **computational economics**.
 
-My research focuses on **macroeconomics**, **computational economics**, and **public finance**. An overview of my research is available [here]({% link _pages/research.md %}), and my CV can be found [here]({{ '/assets/pdf/cv_hussmann.pdf' | relative_url }}).
+Before starting my PhD, I earned a bachelor's degree in Industrial Engineering and Management from Karlsruhe Institute of Technology.
 
+More on my [research]({% link _pages/research.md %}) and my [CV]({{ '/assets/pdf/cv_hussmann.pdf' | relative_url }}).
